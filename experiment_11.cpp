@@ -63,9 +63,9 @@ int main(){
     cout<<s1.pop()<<endl;
 
     Stack<const char*> s2;
-    s2.push("akash");
+    s2.push("adi");
     s2.push("is");
-    s2.push("hacker");
+    s2.push("coder");
     cout<<s2.pop()<<endl;
     cout<<s2.pop()<<endl;
     cout<<s2.pop()<<endl;
